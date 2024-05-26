@@ -35,7 +35,7 @@ pip install timm
 pip install kornia==0.5.8
 ```
 
-Note that replacing the appropriate packages with the given mmengine, mmcv and mmdet.
+Note that replacing mmengine, mmcv and mmdet in the environment directory lib/python3.8/site-packages with the given packages.
 
 ## Dataset Preparations
 
