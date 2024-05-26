@@ -61,7 +61,7 @@ We provide the final model and training logs [here](https://pan.baidu.com/s/1OMH
 
 If you find it useful for your your research and applications, please cite using this BibTeX:
 
-```none
+```bibtex
 @inproceedings{zeng2024task,
   title={Task-Aware Transformer For Partially Supervised Retinal Fundus Image Segmentation},
   author={Zeng, Hailong and Liu, Jianfeng and Liang, Yixiong},
@@ -71,4 +71,6 @@ If you find it useful for your your research and applications, please cite using
   organization={IEEE}
 }
 ```
+
+
 
