@@ -65,7 +65,7 @@ If you find it useful for your your research and applications, please cite using
 @inproceedings{zeng2024task,
   title={Task-Aware Transformer For Partially Supervised Retinal Fundus Image Segmentation},
   author={Zeng, Hailong and Liu, Jianfeng and Liang, Yixiong},
-  booktitle={2024  International Joint Conference on Neural Networks (IJCNN)},
+  booktitle={2024 International Joint Conference on Neural Networks (IJCNN)},
   pages={1--8},
   year={2024},
   organization={IEEE}
